@@ -1,0 +1,20 @@
+# Re-downloaded by `npm install` — ~139 MB of FFmpeg/FFprobe binaries.
+# This is the only reason this folder looks big. Never commit it.
+node_modules/
+
+# Source video is large and belongs to Heithem, not to this repo.
+media/
+
+# Rendered output is regenerable from edit.json.
+# The resolve-test draft is kept deliberately as a known-good reference.
+projects/*/out/*.mp4
+!projects/resolve-test/out/resolve-test_draft.mp4
+
+# OS noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp

@@ -1,0 +1,8 @@
+{
+  "name": "resolve-test",
+  "clips": [
+    { "src": "C:/Users/heith/Videos/cut video chnages professor.mp4", "in": 300.0, "out": 330.0, "name": "opening" },
+    { "src": "C:/Users/heith/Videos/cut video chnages professor.mp4", "in": 1800.5, "out": 1830.25, "name": "middle" },
+    { "src": "C:/Users/heith/Videos/cut video chnages professor.mp4", "in": 4200.0, "out": 4215.75, "name": "late" }
+  ]
+}

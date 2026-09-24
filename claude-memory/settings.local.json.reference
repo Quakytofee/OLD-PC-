@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& \"C:\\\\Users\\\\heith\\\\Desktop\\\\Haithem AI\\\\Projects\\\\Gameify\\\\_Bootstrap\\\\Foundation\\\\ManyakaCity_Foundation_v1.0\\\\INSTALL_FOUNDATION.ps1\" -TargetRoot \"C:\\\\Users\\\\heith\\\\Desktop\\\\Haithem AI\\\\Projects\\\\Gameify\")",
+      "PowerShell(\"--- User Shell Folders \\(Desktop\\) ---\"; \\(Get-ItemProperty \"HKCU:\\\\Software\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Explorer\\\\User Shell Folders\"\\).Desktop; \"--- Shell Folders \\(Desktop\\) ---\"; \\(Get-ItemProperty \"HKCU:\\\\Software\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Explorer\\\\Shell Folders\"\\).Desktop; \"--- OneDrive env vars ---\"; \"OneDrive=$env:OneDrive\"; \"OneDriveConsumer=$env:OneDriveConsumer\"; \"OneDriveCommercial=$env:OneDriveCommercial\"; \"--- Reparse/attributes on project path chain ---\"; foreach \\($p in @\\(\"C:\\\\Users\\\\heith\\\\Desktop\",\"C:\\\\Users\\\\heith\\\\Desktop\\\\Haithem AI\",\"C:\\\\Users\\\\heith\\\\Desktop\\\\Haithem AI\\\\Projects\",\"C:\\\\Users\\\\heith\\\\Desktop\\\\Haithem AI\\\\Projects\\\\Gameify\"\\)\\) { $i = Get-Item -LiteralPath $p -Force; \"{0} -> Attributes: {1}\" -f $p, $i.Attributes }; \"--- Path length ---\"; \"Root length: \" + \"C:\\\\Users\\\\heith\\\\Desktop\\\\Haithem AI\\\\Projects\\\\Gameify\".Length)"
+    ]
+  }
+}

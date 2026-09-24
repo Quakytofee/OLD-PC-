@@ -1,0 +1,11 @@
+{
+  "name": "video-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Claude-driven video editing that hands finished timelines to DaVinci Resolve",
+  "comment": "FFmpeg is pulled from npm rather than winget/GitHub: GitHub's release CDN measured ~8 KB/s from this machine, npm's ~205 KB/s. These two packages ship the binaries directly, so nothing is downloaded at install time.",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffprobe-installer/ffprobe": "^2.1.2"
+  }
+}

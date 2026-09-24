@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.8">
+  <resources>
+    <format id="r1" name="FFVideoFormat720p60" frameDuration="1/60s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)"/>
+    <asset id="r2" name="cut video chnages professor" src="file:///C:/Users/heith/Videos/cut%20video%20chnages%20professor.mp4" start="0s" duration="99689/20s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"/>
+  </resources>
+  <library>
+    <event name="resolve-test">
+      <project name="resolve-test">
+        <sequence format="r1" duration="151/2s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+          <spine>
+            <asset-clip ref="r2" name="opening" offset="0s" start="300s" duration="30s" format="r1" tcFormat="NDF" audioRole="dialogue"/>
+            <asset-clip ref="r2" name="middle" offset="30s" start="3601/2s" duration="119/4s" format="r1" tcFormat="NDF" audioRole="dialogue"/>
+            <asset-clip ref="r2" name="late" offset="239/4s" start="4200s" duration="63/4s" format="r1" tcFormat="NDF" audioRole="dialogue"/>
+          </spine>
+        </sequence>
+      </project>
+    </event>
+  </library>
+</fcpxml>

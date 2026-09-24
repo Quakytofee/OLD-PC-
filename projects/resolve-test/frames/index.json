@@ -1,0 +1,175 @@
+{
+  "source": "C:\\Users\\heith\\Videos\\cut video chnages professor.mp4",
+  "mode": "interval",
+  "every": 120,
+  "frames": [
+    {
+      "file": "frame_0001.jpg",
+      "approxSeconds": 0
+    },
+    {
+      "file": "frame_0002.jpg",
+      "approxSeconds": 120
+    },
+    {
+      "file": "frame_0003.jpg",
+      "approxSeconds": 240
+    },
+    {
+      "file": "frame_0004.jpg",
+      "approxSeconds": 360
+    },
+    {
+      "file": "frame_0005.jpg",
+      "approxSeconds": 480
+    },
+    {
+      "file": "frame_0006.jpg",
+      "approxSeconds": 600
+    },
+    {
+      "file": "frame_0007.jpg",
+      "approxSeconds": 720
+    },
+    {
+      "file": "frame_0008.jpg",
+      "approxSeconds": 840
+    },
+    {
+      "file": "frame_0009.jpg",
+      "approxSeconds": 960
+    },
+    {
+      "file": "frame_0010.jpg",
+      "approxSeconds": 1080
+    },
+    {
+      "file": "frame_0011.jpg",
+      "approxSeconds": 1200
+    },
+    {
+      "file": "frame_0012.jpg",
+      "approxSeconds": 1320
+    },
+    {
+      "file": "frame_0013.jpg",
+      "approxSeconds": 1440
+    },
+    {
+      "file": "frame_0014.jpg",
+      "approxSeconds": 1560
+    },
+    {
+      "file": "frame_0015.jpg",
+      "approxSeconds": 1680
+    },
+    {
+      "file": "frame_0016.jpg",
+      "approxSeconds": 1800
+    },
+    {
+      "file": "frame_0017.jpg",
+      "approxSeconds": 1920
+    },
+    {
+      "file": "frame_0018.jpg",
+      "approxSeconds": 2040
+    },
+    {
+      "file": "frame_0019.jpg",
+      "approxSeconds": 2160
+    },
+    {
+      "file": "frame_0020.jpg",
+      "approxSeconds": 2280
+    },
+    {
+      "file": "frame_0021.jpg",
+      "approxSeconds": 2400
+    },
+    {
+      "file": "frame_0022.jpg",
+      "approxSeconds": 2520
+    },
+    {
+      "file": "frame_0023.jpg",
+      "approxSeconds": 2640
+    },
+    {
+      "file": "frame_0024.jpg",
+      "approxSeconds": 2760
+    },
+    {
+      "file": "frame_0025.jpg",
+      "approxSeconds": 2880
+    },
+    {
+      "file": "frame_0026.jpg",
+      "approxSeconds": 3000
+    },
+    {
+      "file": "frame_0027.jpg",
+      "approxSeconds": 3120
+    },
+    {
+      "file": "frame_0028.jpg",
+      "approxSeconds": 3240
+    },
+    {
+      "file": "frame_0029.jpg",
+      "approxSeconds": 3360
+    },
+    {
+      "file": "frame_0030.jpg",
+      "approxSeconds": 3480
+    },
+    {
+      "file": "frame_0031.jpg",
+      "approxSeconds": 3600
+    },
+    {
+      "file": "frame_0032.jpg",
+      "approxSeconds": 3720
+    },
+    {
+      "file": "frame_0033.jpg",
+      "approxSeconds": 3840
+    },
+    {
+      "file": "frame_0034.jpg",
+      "approxSeconds": 3960
+    },
+    {
+      "file": "frame_0035.jpg",
+      "approxSeconds": 4080
+    },
+    {
+      "file": "frame_0036.jpg",
+      "approxSeconds": 4200
+    },
+    {
+      "file": "frame_0037.jpg",
+      "approxSeconds": 4320
+    },
+    {
+      "file": "frame_0038.jpg",
+      "approxSeconds": 4440
+    },
+    {
+      "file": "frame_0039.jpg",
+      "approxSeconds": 4560
+    },
+    {
+      "file": "frame_0040.jpg",
+      "approxSeconds": 4680
+    },
+    {
+      "file": "frame_0041.jpg",
+      "approxSeconds": 4800
+    },
+    {
+      "file": "frame_0042.jpg",
+      "approxSeconds": 4920
+    }
+  ]
+}
