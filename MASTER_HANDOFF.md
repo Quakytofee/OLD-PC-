@@ -21,6 +21,14 @@ Both under the **`Quakytofee`** account. Nothing else needs to come off the old 
 There is also an empty `hj5tkbgn2m-dev/Old-pc-` repo on a second GitHub account,
 created by accident during the move. It contains nothing. Ignore or delete it.
 
+> **Setting up on a new machine?** Read
+> **[`NEW_PC_SETUP.md`](NEW_PC_SETUP.md)** before cloning anything.
+>
+> It covers the three things that silently break the game project — Git LFS
+> (238 assets arrive as 130-byte stubs without it), the frozen Unreal 5.8.0
+> version, and the Visual Studio C++ requirement — plus what can and cannot be
+> moved across on a USB drive.
+
 ---
 
 ## The one-paragraph version
