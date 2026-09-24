@@ -9,6 +9,20 @@ If you are a new Claude session: **read this file first, then follow the
 
 ---
 
+## Everything lives in two private GitHub repos
+
+Both under the **`Quakytofee`** account. Nothing else needs to come off the old PC.
+
+| Repo | Holds | Clone |
+|---|---|---|
+| **`Quakytofee/gameify`** | Manyaka City — the game | `git clone https://github.com/Quakytofee/gameify.git` |
+| **`Quakytofee/OLD-PC-`** | Video toolkit, Claude memory, this document | `git clone https://github.com/Quakytofee/OLD-PC-.git` |
+
+There is also an empty `hj5tkbgn2m-dev/Old-pc-` repo on a second GitHub account,
+created by accident during the move. It contains nothing. Ignore or delete it.
+
+---
+
 ## The one-paragraph version
 
 There are two projects. **Manyaka City** is an Unreal Engine 5.8 Windows game,
